@@ -1,7 +1,13 @@
 # Regression in C++
 
+*The project is being currently developed*
+
 This is the repository for my Basics of Programming 2 Final project - Basic regression models in C++
-The goal is to implement the most common regression algorithms from scratch using the gradient decsent algorithm for optimization.
+
+
+The 2 main goals are:
+1. To make use of the most important OOP principle.
+2. To implement the most common regression algorithms from scratch using the gradient decsent algorithm for optimization.
 
 Currently implemented:
 1. Linear regression
